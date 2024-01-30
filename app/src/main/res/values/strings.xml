@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sql_Login_Register</string>
+    <string name="user">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_an_user_login_">Already an user login</string>
+    <string name="already_an_user_login">Already An User Login_</string>
+    <string name="username2">Username</string>
+    <string name="password2">Password</string>
+    <string name="login2">Login</string>
+    <string name="not_yet_registered_signup2">Not yet registered signup</string>
+</resources>
